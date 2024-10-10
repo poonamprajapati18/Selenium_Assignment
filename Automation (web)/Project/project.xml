@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNG_Project.P4_Certificate"/>
+      <class name="TestNG_Project.P2_Details"/>
+      <class name="TestNG_Project.P5_Accounts"/>
+      <class name="TestNG_Project.P7_JobTracker"/>
+      <class name="TestNG_Project.P3_CourseDetails"/>
+      <class name="TestNG_Project.P1_login"/>
+      <class name="TestNG_Project.P8_ReferFriend"/>
+      <class name="TestNG_Project.P6_ResumeBuilder"/>
+      <class name="TestNG_Project.P9_Events">
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
